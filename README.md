@@ -33,6 +33,6 @@ See the official documentation...  to be done
 ## Questions? Comments?
 
 Send them to the Jekyll Talk forum post titled
-[Liquid Template Language Docu Reformatted as a Single-Page Black-n-White Book Version](https://talk.jekyllrb.com/t/jekyll-docu-reformatted-as-a-single-page-in-black-n-white-book-version-why-why-not/1908).
+[Liquid Template Language Docu Reformated - Single-Page Black-n-White Book Version](https://talk.jekyllrb.com/t/liquid-template-language-docu-reformated-single-page-black-n-white-book-version-manuscripts-edition/2156).
 Thanks.
 
