@@ -12,8 +12,8 @@ hosted web applications.
 ## Who uses Liquid?
 
 - [Jekyll](http://jekyllrb.com)
-- [Salesfore Desk](http://www.desk.com)
-- [Zen Desk](http://www.zendesk.com)
+- [Salesforce Desk](http://www.desk.com)
+- [Zendesk](http://www.zendesk.com)
 - [500px](http://500px.com)
 - ...and [many more!](https://github.com/Shopify/liquid/wiki#who-uses-liquid)
 
