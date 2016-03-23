@@ -21,6 +21,15 @@ the book gets auto-built with "plain" Jekyll - of course - and hosted on GitHub 
 See the official documentation...  to be done
 
 
+## Update & Build Notes
+
+### Todos
+
+- [ ] clean up inline links e.g. `[split]({{ "/filters/split" | prepend: site.baseurl }})` and many more
+
+
+
+
 ## Questions? Comments?
 
 Send them to the Jekyll Talk forum post titled
